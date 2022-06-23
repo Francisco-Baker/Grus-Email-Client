@@ -6,7 +6,7 @@ from email.header import Header
 import time
 
 #print title
-print("Tw&py Email Client (experimental version1) by: Tianwei Li\nProtocol: SMTP")
+print("Grus Email Client (experimental version1) by:admin \nProtocol: SMTP")
 
 b=0
 
