@@ -59,6 +59,8 @@ for b in range(0,a):
     s.close()
     b = b+1
 
-
+#To make this program function, you shall creat two files pwd.txt and user.txt.
+#After that, put them with this python program in the same folder.
+#You shall write your password(smtp) in pwd.txt and write your email in user.txt
 
 
